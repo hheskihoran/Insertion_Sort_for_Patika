@@ -1,5 +1,5 @@
 Output is :
-<br />#
+<br /><br />
 Insertion_Sort_for_Patika <br />
 Burada aradigimiz sayi ortada :) <br />
 Big-O gosterimi => O(n^2) <br />
@@ -11,9 +11,9 @@ Big-O gosterimi => O(n^2) <br />
 [ 2, 6, 16, 18, 22, 27 ] <br />
 End of sorting, Best Case is 2 <br />
 Avarage Case is 16 or 18 <br />
-Worst case is 27 <br />#
-Last Situation : <br /> #
-<br />
+Worst case is 27 <br /><br />
+Last Situation : <br /> 
+<br /><br />
 [
   7, 3,  5, 8, 2,
   9, 4, 15, 6
